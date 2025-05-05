@@ -1,7 +1,5 @@
-## Hi there 👋
-
 # 💫 About Me:
-I'm currently working as a Data analyst<br> and pursing undergraduation from IIT Madras<br>Looking to collaborate on data related project<br>Currently I'm  learning machine learning and  deep learning<br>Ask me about data and only data <br>
+🔭 I'm currently working as a Data analyst<br>🤝 Looking to collaborate on data related project<br>🌱 I'm currently learning machine learning and  deep learning<br>💬 Ask me about data and only data <br>
 
 
 ## 🌐 Socials:
