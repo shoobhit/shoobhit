@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **shoobhit/shoobhit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 💫 About Me:
 I'm currently working as a Data analyst<br> and pursing undergraduation from IIT Madras<br>Looking to collaborate on data related project<br>Currently I'm  learning machine learning and  deep learning<br>Ask me about data and only data <br>
@@ -25,4 +25,4 @@ I'm currently working as a Data analyst<br> and pursing undergraduation from IIT
 ---
 [![](https://visitcount.itsvg.in/api?id=shoobhit&icon=4&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
